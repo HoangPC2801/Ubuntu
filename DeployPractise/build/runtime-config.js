@@ -1,4 +1,0 @@
-// values replaced at deploy time (CI/CD, Docker entrypoint, envsubst, etc.)
-window.__RUNTIME_CONFIG__ = {
-  API_BASE_URL: "http://localhost:5094/"
-};
